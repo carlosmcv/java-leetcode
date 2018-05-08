@@ -4,3 +4,4 @@
 .settings/
 java-leetcode.iml
 *.class
+.vscode
