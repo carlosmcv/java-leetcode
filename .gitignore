@@ -3,3 +3,4 @@
 .project
 .settings/
 java-leetcode.iml
+*.class
